@@ -1,0 +1,31 @@
+
+body 
+{
+    background-color: rgb(57, 107, 182);
+}
+
+main 
+{
+    text-align: center;
+    background-color: white;
+    border-color: beige;
+    border-radius: 10px;
+    padding: 50px;
+    width: 300px;
+    margin: auto;
+
+    
+}
+
+
+label 
+{
+    
+}
+input[type="submit"] 
+{
+    color: white;
+    background-color: rgb(112, 156, 238);
+    width: 80px;
+
+}
